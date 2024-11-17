@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: emerald
-
+bankground: white
 # SEO
 marketing:
   seo:

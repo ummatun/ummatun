@@ -182,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I’m Ummatun Khatun, a student in the Department of Computer Science and Engineering at Jahangirnagar University. I am skilled in C, C++, Java, HTML, CSS, and JavaScript. I’m passionate about AI and Robotics, and I’m currently working on a line-following robot project as part of my involvement in the Robotics Club. I am always eager to learn new technologies and explore innovative solutions.

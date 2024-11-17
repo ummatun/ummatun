@@ -24,7 +24,9 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
+#Site body
+body: 
+color: red
 # Site header
 header:
   navbar:

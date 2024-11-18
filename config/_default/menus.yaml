@@ -20,8 +20,8 @@ main:
     url: projects/
     weight: 30
   - name: CV
-    url: /#talks
-    weight: 12
-  - name: Contact
     url: teaching/
     weight: 40
+  - name: Contact
+    url: /#talks
+    weight: 12

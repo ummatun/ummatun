@@ -41,8 +41,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Robotics
-  - Web Development
-expeience: 
+  - Web Development 
 
 education:
   - area: Honours (Computer Science & Engineering)
@@ -78,7 +77,8 @@ skills:
         description: ''
         percent: 70
         icon: circle-stack   
-      
+
+experience: 
 
 languages:
   - name: English
@@ -86,7 +86,7 @@ languages:
   - name: Bangla
     percent: 100
 
-Certification:
+awards:
   - title: Responsive Web Design
     url: https://www.freecodecamp.org/certification/Ummatun/responsive-web-design
     date: '2024-10-24'

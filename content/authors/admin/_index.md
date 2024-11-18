@@ -46,18 +46,19 @@ interests:
 education:
   - area: Honours (Computer Science & Engineering)
     institution: Jahangirnagar University
-    date_start: 2022
-    date_end: present
+    date_start: 2022-03-09
+  
   - area: HSC (Science) 
     institution: Al Helal Islami Academy & College
-    date_start: 2018
-    date_end: 2020
+    date_start: 2018-06-01
+    date_end: 2020-04-15
     summary: |
       GPA: 5.0/5.0
+
   - area: SSC (Science)
     institution: Bakhorpur Mohila Dakhil Madrasah
-    date_start: 2007
-    date_end: 2018
+    date_start: 2007-01-01
+    date_end: 2018-02-15
     summary: |
       GPA: 5.0/5.0
 

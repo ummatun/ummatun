@@ -61,10 +61,7 @@ education:
     date_end: 2018-02-15
     summary: |
       GPA: 5.0/5.0
-
-skills:
-  - name: Technical Skills
-    items:
+      
     skills:
   - name: Technical Skills
     items:

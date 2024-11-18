@@ -8,9 +8,8 @@ main:
     url: /
     weight: 10
 
-  - name: Talks
-    url: /#talks
-    weight: 12
+  
+
   - name: News
     url: /#news
     weight: 13
@@ -20,6 +19,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: CV
+    url: /#talks
+    weight: 12
   - name: Contact
     url: teaching/
     weight: 40

@@ -24,11 +24,65 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Depertment of Computer Sceince & Engineering
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+
+education:
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -88,12 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Bangla
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - 
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -128,5 +181,4 @@ awards:
 ---
 
 ## About Me
-
-Hi, I’m Ummatun Khatun, a student in the Department of Computer Science and Engineering at Jahangirnagar University. I am skilled in C, C++, Java, HTML, CSS, and JavaScript. I’m passionate about AI and Robotics, and I’m currently working on a line-following robot project as part of my involvement in the Robotics Club. I am always eager to learn new technologies and explore innovative solutions.
+I am Ummatun Khatun, a student in the Department of Computer Science and Engineering at Jahangirnagar University. I joined the university in pursuit of my academic goals in 2024. Prior to this, I developed a strong foundation in programming languages, including C, C++, and Java. I am an active member of the Robotics Club at Jahangirnagar University, where I am currently working on a line-following robot project. My interests are broadly at the intersection of software engineering and robotics, with a particular focus on building autonomous systems. I am dedicated to enhancing my skills in robotics and AI, aiming to contribute to innovative solutions in these fields.

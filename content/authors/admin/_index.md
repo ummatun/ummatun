@@ -32,7 +32,7 @@ profiles:
     url: 'mailto:ummatunkhatun086@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/ummatun?tab=repositories
+    url: https://github.com/ummatun
     label: Visit My GitHub
 
 interests:
@@ -71,18 +71,7 @@ skills:
       - name: SQL
         percent: 60
         icon: circle-stack
-  - name: Hobbies
-    items:
-      - name: Reading
-        percent: 50
-        icon: person-simple-read
-      - name: Cats
-        percent: 100
-        icon: cat
-      - name: Photography
-        percent: 80
-        icon: camera
-
+  
 languages:
   - name: English
     percent: 80

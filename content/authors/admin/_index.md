@@ -79,6 +79,7 @@ skills:
         icon: circle-stack   
 
 experience: 
+  -area: Active Member of Jahangirnagar University Robotics Club
 
 languages:
   - name: English

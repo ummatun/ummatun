@@ -42,6 +42,7 @@ interests:
   - Artificial Intelligence
   - Robotics
   - Web Development
+expeience: 
 
 education:
   - area: Honours (Computer Science & Engineering)

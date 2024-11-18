@@ -37,21 +37,15 @@ sections:
       #title: Recent News
       title: Contact Information
       subtitle: ''
-      text: ''
-      
-# Contact Information
+      text: # Contact Information
 
-Feel free to reach out to me via any of the following contact methods:
+            Feel free to reach out to me via any of the following contact methods:
 
-- **Phone**: 01787305158, 01834702759
-- **Email**: ummatunkhatun086@gmail.com
+            - **Phone**: 01787305158, 01834702759
+            - **Email**: ummatunkhatun086@gmail.com
 
-- **GitHub**: https://github.com/ummatun
-
-<!-- - **Twitter**: [Your Twitter Handle] -->
-<!-- - **Portfolio**: [Link to Your Portfolio Website] -->
-
-I look forward to connecting with you!
+            - **GitHub**: https://github.com/ummatun
+            I look forward to connecting with you!
 
         # Card background color (CSS class)
         css_class: "bg-primary-700"

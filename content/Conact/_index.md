@@ -1,23 +1,11 @@
----
-title: Contact
-summary: My courses
-type: landing
+Feel free to reach out to me via any of the following contact methods:
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+Phone: 01797739109, 01568226500
 
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
----
+Email: ismailraj127413@gmail.com
+
+GitHub: https://github.com/ismai402
+
+LinkedIn: https://www.linkedin.com/in/ismail-hossain-a613ab218/
+
+I look forward to connecting with you!

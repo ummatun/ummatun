@@ -1,7 +1,7 @@
 ---
-title: scikit-learn
+title: Accesssibility by bulid a quize
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: http://127.0.0.1:5500/index.html
 tags:
   - Hugo
   - Wowchemy

@@ -1,7 +1,7 @@
 ---
 title: Tribute Page
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: http://127.0.0.1:5500/index.html
 tags:
   - Hugo
   - Wowchemy

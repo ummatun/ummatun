@@ -65,20 +65,16 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: C
-        description: ''
-        percent: 80
-        icon: code-bracket
       - name: C++
-        description: ''
         percent: 90
+        icon: code-bracket
+      - name: HTML 
+        percent: 70
         icon: chart-bar
-      - name: HTML
-        description: ''
-        percent: 80
-        icon: circle-stack
-        - name: CSS
-        description: ''
+        - name: CSS 
+        percent: 70
+        icon: chart-bar
+      - name: SQL
         percent: 60
         icon: circle-stack
 
@@ -87,11 +83,13 @@ languages:
     percent: 70
   - name: Bangla
     percent: 100
+
 awards:
   - title: Responsive Web Design
     url: https://www.freecodecamp.org/certification/Ummatun/responsive-web-design
     date: '2024-10-24'
     awarder: freeCodeCamp
+
 ## About Me
 
 Hi, I’m Ummatun Khatun, a student in the Department of Computer Science and Engineering at Jahangirnagar University. I am skilled in C, C++, Java, HTML, CSS, and JavaScript. I’m passionate about AI and Robotics, and I’m currently working on a line-following robot project as part of my involvement in the Robotics Club. I am always eager to learn new technologies and explore innovative solutions.

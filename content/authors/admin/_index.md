@@ -78,8 +78,19 @@ skills:
         percent: 70
         icon: circle-stack   
 
-experience: 
-  -area: Active Member of Jahangirnagar University Robotics Club
+work:
+  - position: Member of Jahangirnagar University Robotics Club(JURC)
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Line Following Robot (LFR)
+      - Ultrasonic Sensor
+      - Six Degree of Freedom(6 DOF) of Robot
+      - Maze Solve  
 
 languages:
   - name: English

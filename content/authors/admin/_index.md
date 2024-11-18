@@ -65,18 +65,22 @@ education:
 skills:
   - name: Technical Skills
     items:
+    skills:
+  - name: Technical Skills
+    items:
       - name: C++
         percent: 90
         icon: code-bracket
-      - name: HTML 
+      - name: HTML
         percent: 70
         icon: chart-bar
-        - name: CSS 
+      - name: CSS
         percent: 70
         icon: chart-bar
       - name: SQL
         percent: 60
         icon: circle-stack
+
 
 languages:
   - name: English

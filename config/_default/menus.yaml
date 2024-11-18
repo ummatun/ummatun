@@ -10,9 +10,9 @@ main:
 
   
 
-  - name: News
-    url: /#news
-    weight: 13
+  #- name: ''
+  #  url: /#news
+  #  weight: 13
   - name: Experience
     url: experience/
     weight: 20

@@ -29,34 +29,6 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 
-profiles:
-  - icon: at-symbol
-    url: 'mailto:ummatunkhatun086@gmail.com'
-    label: E-mail Me
-  - icon: brands/github
-    url: "https://github.com/ummatun?tab=repositories"
-    label: Visit My GitHub
-
-interests:
-  - Artificial Intelligence
-  - Robotics
-  - Web Development
-
-education:
-  - area: Honours (Computer Science & Engineering)
-    institution: Jahangirnagar University
-    date_start: 2022
-    date_end: present
-  - area: HSC (Science) 
-    institution: Al Helal Islami Academy & College
-    date_start: 2018
-    date_end: 2020
-    summary: GPA: 5.0/5.0
-  - area: SSC (Science)
-    institution: Bakhorpur Mohila Dakhil Madrasah
-    date_start: 2007
-    date_end: 2018
-    summary: GPA: 5.0/5.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -64,7 +36,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |
+    summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit

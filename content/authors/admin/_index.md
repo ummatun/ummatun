@@ -61,30 +61,34 @@ education:
     date_end: 2018-02-15
     summary: |
       GPA: 5.0/5.0
-
 skills:
   - name: Technical Skills
     items:
       - name: C++
         percent: 90
         icon: code-bracket
-      - name: HTML
-        percent: 70
-        icon: chart-bar
-      - name: CSS
+      - name: Web Development
         percent: 70
         icon: chart-bar
       - name: SQL
         percent: 60
         icon: circle-stack
-
-
+  - name: Hobbies
+    items:
+      - name: Reading
+        percent: 50
+        icon: person-simple-read
+      - name: Cats
+        percent: 100
+        icon: cat
+      - name: Photography
+        percent: 80
+        icon: camera
 languages:
   - name: English
-    percent: 70
+    percent: 80
   - name: Bangla
     percent: 100
-
 awards:
   - title: Responsive Web Design
     url: https://www.freecodecamp.org/certification/Ummatun/responsive-web-design

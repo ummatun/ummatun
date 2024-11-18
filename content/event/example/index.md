@@ -1,6 +1,6 @@
 ---
-title: Example Talk
-
+#title: Example Talk
+title: Contact
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 

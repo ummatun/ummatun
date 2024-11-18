@@ -3,7 +3,7 @@
 title: Ummatun Khatun
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Ummatun
@@ -24,12 +24,9 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Depertment of Computer Sceince & Engineering
+  - name: Department of Computer Science & Engineering
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-
-
 profiles:
   - icon: at-symbol
     url: 'mailto:ummatunkhatun086@gmail.com'
@@ -61,6 +58,7 @@ education:
     date_end: 2018-02-15
     summary: |
       GPA: 5.0/5.0
+
 skills:
   - name: Technical Skills
     items:
@@ -84,11 +82,13 @@ skills:
       - name: Photography
         percent: 80
         icon: camera
+
 languages:
   - name: English
     percent: 80
   - name: Bangla
     percent: 100
+
 awards:
   - title: Responsive Web Design
     url: https://www.freecodecamp.org/certification/Ummatun/responsive-web-design
@@ -98,3 +98,4 @@ awards:
 ## About Me
 
 Hi, I’m Ummatun Khatun, a student in the Department of Computer Science and Engineering at Jahangirnagar University. I am skilled in C, C++, Java, HTML, CSS, and JavaScript. I’m passionate about AI and Robotics, and I’m currently working on a line-following robot project as part of my involvement in the Robotics Club. I am always eager to learn new technologies and explore innovative solutions.
+---

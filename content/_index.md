@@ -53,9 +53,9 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: papers
+    id: news
     content:
-      title: Featured Publications
+      title: Contact Information
       filters:
         folders:
           - publication

@@ -52,7 +52,7 @@ sections:
 #        Please reach out to collaborate 😃
 #    design:
 #      columns: '1'
-  - block: collection
+  - block: markdown
     id: news
     content:
       title: Contact Information

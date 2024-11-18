@@ -1,16 +1,16 @@
 ---
 #title: Example Talk
-title: Contact
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+title: Talk about learnig Web Development
+event: Learn Web Development
+event_url: https://www.geeksforgeeks.org/web-development/
 
-location: Hugo Blox Builder HQ
+location: Jahangirnagar Univesity
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Aricha Road
+  city: Dhaka
+  region: Savar
   postcode: '94305'
-  country: United States
+  country: Bangladesh
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'

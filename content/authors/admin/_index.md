@@ -42,32 +42,27 @@ interests:
   - Web Development
 
 education:
-  - area: Honours(Computr Science & Engineering)
+  education:
+  - area: Honours (Computer Science & Engineering)
     institution: Jahangirnagar University
     date_start: 2022
-     date_end: present
-   
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: HSC(Science) 
+    date_end: present
+
+  - area: HSC (Science) 
     institution: Al Helal Islami Academy & College
     date_start: 2018
     date_end: 2020
     summary: |
       GPA: 5.0/5.0
 
-  - area: SSC(Science)
+  - area: SSC (Science)
     institution: Bakhorpur Mohila Dakhil Madrasah
     date_start: 2007
     date_end: 2018
     summary: |
       GPA: 5.0/5.0.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

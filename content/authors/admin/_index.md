@@ -61,8 +61,8 @@ education:
     date_end: 2018-02-15
     summary: |
       GPA: 5.0/5.0
-      
-    skills:
+
+skills:
   - name: Technical Skills
     items:
       - name: C++

@@ -68,20 +68,6 @@ sections:
       view: article-grid
       columns: 1
 
-  - block: collection
-    id: news
-    content:
-      title: Contact Information
-      subtitle: ''
-    text: |-
-    
-      filters:
-        folders:
-          - publication
-        #featured_only: true
-    design:
-      view: article-grid
-      columns: 1
 #  - block: collection
 #    content:
 #      title: Recent Publications

@@ -1,7 +1,7 @@
 ---
 title: Tribute Page
 date: 2023-10-26
-external_link: https://github.com/Intellect-ai/Dr.-Yunus
+external_link: https://github.com/pytorch/pytorch
 tags:
   - Hugo
   - Wowchemy

@@ -57,13 +57,13 @@ sections:
     content:
       title: Contact Information
       text: |-
-        Feel free to reach out to me via any of the following contact methods:
+            Feel free to reach out to me via any of the following contact methods:
 
-        - **Phone**: 01787305158, 01834702759
-        - **Email**: ummatunkhatun086@gmail.com
-        - **GitHub**: [My GitHub](https://github.com/ummatun)
+            - **Phone**: 01787305158, 01834702759
+            - **Email**: ummatunkhatun086@gmail.com
+            - **GitHub**: [My GitHub](https://github.com/ummatun)
 
-        I look forward to connecting with you!
+            I look forward to connecting with you!
     design:
       view: article-grid
       columns: 1

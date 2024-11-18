@@ -1,7 +1,7 @@
 ---
-title: Accebility building page
+title: Tic_Tac_Toe
 date: 2023-10-26
-external_link: https://github.com/ummatun/Accessibilty_quize/tree/main
+external_link: https://github.com/ummatun/Tic-Tac-Toe
 tags:
   - Hugo
   - Wowchemy

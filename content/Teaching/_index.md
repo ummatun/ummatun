@@ -1,77 +1,118 @@
+
+
 ---
-title: "Ummatun Khatun"
-type: "author"
-layout: "single"
-draft: false
-
-# Basic Information
-name: "Ummatun Khatun"
-role: "Student"
-organization: "Computer Science & Engineering, Jahangirnagar University"
-email: "ummatunkhatun086@gmail.com"
-github: "https://github.com/ummatun"
-
-# Contact Information
-contact:
-  phone: 
-    - "01787305158"
-    - "01834702759"
-  email: "ummatunkhatun086@gmail.com"
-  github: "https://github.com/ummatun"
-
-# Bio Summary
-summary: >
-  Ummatun Khatun is a Computer Science & Engineering student at Jahangirnagar University with a passion for robotics, web development, and artificial intelligence. As a member of the Jahangirnagar University Robotics Club, she has contributed to innovative projects like line-following robots, maze-solving algorithms, and robotic arms.
-
-# Work Experience
-experience:
-  - title: "Member"
-    organization: "Jahangirnagar University Robotics Club (JURC)"
-    timeframe: "August 2022 - Present"
-    contributions:
-      - "Designed and programmed intelligent line-following robots."
-      - "Integrated ultrasonic sensors for real-time obstacle detection."
-      - "Developed 6 DOF robotic arms for multi-purpose applications."
-      - "Enhanced robot navigation using maze-solving algorithms."
-
-# Education History
-education:
-  - degree: "Honours in Computer Science & Engineering"
-    institution: "Jahangirnagar University"
-    years: "2022 - Present"
-  - degree: "HSC in Science"
-    institution: "Al Helal Islami Academy & College"
-    years: "2018 - 2020"
-    gpa: "5.0/5.0"
-  - degree: "SSC in Science"
-    institution: "Bakhorpur Mohila Dakhil Madrasah"
-    years: "2007 - 2018"
-    gpa: "5.0/5.0"
-
-# Skills
-skills:
-  - category: "Technical Expertise"
-    items:
-      - "C++: Advanced problem-solving and efficient coding."
-      - "HTML & CSS: Proficient in creating responsive web designs."
-      - "Arduino: Expertise in building hardware prototypes."
-  - category: "Creative Abilities"
-    items:
-      - "Robotics Innovation"
-      - "Maze-solving Algorithm Development"
-      - "Photography"
-
-# Awards
-awards:
-  - title: "Responsive Web Design"
-    organization: "freeCodeCamp"
-    date: "October 2024"
-
-# Interests
-interests:
-  - "Artificial Intelligence"
-  - "Robotics and Automation"
-  - "Creative Web Development"
+# title: Curriculum Vitae
+summary: This is my Curriculum Vitae.
+date: 2024-11-18
+type: docs
+math: false
+# tags:
+# - Curriculum Vitae
+# image:
+#   caption: ' '
 ---
 
-Welcome to my portfolio! I am a passionate student and robotics enthusiast with expertise in problem-solving, creative web design, and innovative robotic systems. Feel free to explore my work and connect with me!
+<div style="display: flex; align-items: center;">
+  <img src="./avatar.jpg" alt="Ummatun" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <h1>Ummatun Khatun</h1>
+    <p>Studies at Department of Computer Science & Engineering in Jahangirnagar University</p>
+  </div>
+</div>
+
+## Profile Summary
+Ummatun Khatun is a Computer Science & Engineering student at Jahangirnagar University with a passion for robotics, web development, and artificial intelligence. As a member of the Jahangirnagar University Robotics Club, she has contributed to innovative projects like line-following robots, maze-solving algorithms, and robotic arms
+
+---
+
+## Education
+
+- **Jahangirnagar University** 
+  
+  *Bachelor’s Degree*  
+  Year of Graduation: 2022-present
+
+- **Al Helal Islami Academy and College**
+  *HSC*  
+  GPA: 5.00  
+  Graduated: 2020
+
+- **Al Helal Islami Academy and College** 
+  *SSC*
+  GPA: 5.00  
+  Graduated: 2018
+
+---
+
+## Skills
+
+- **Languages**: HTML, CSS, Java, C, C++
+- **Frameworks**: React, Bootstrap
+- **Tools**: Git, GitHub, VS Code, Figma, Paradigm
+- **Other**: Responsive Web Design
+
+---
+
+<!-- ## Professional Experience
+
+- **[Current/Most Recent Company/Organization Name]**  
+  *Front-End Developer*  
+  [Employment Duration]  
+  - Developed and maintained responsive websites and applications.
+  - Collaborated with designers and back-end developers to create seamless user experiences.
+  - Improved website performance and ensured cross-browser compatibility.
+  - Implemented new features and optimized existing code. -->
+
+
+
+## Projects
+
+<!-- - **[Portfolio Website]**: Developed a personal portfolio website showcasing projects, skills, and experience. -->
+- **[Web Development Projects]**:
+
+-Tic-Tac-Toe
+
+-Tribute page
+
+-Accessibility Building Page
+
+-Technical Documntation
+
+
+- **[Robotics Project]**:
+
+-Line Following Robot (LFR)
+
+-Robo Soccer
+
+-Maze Solve
+
+
+
+---
+
+## Additional Experience
+
+- **Teaching**: Provided private tuition and conducted classes at school, gaining experience in helping students understand complex concepts effectively.
+
+---
+
+## Certifications
+
+- **FreeCodeCamp**: Responsive Web Design Certification
+- **Buet Robotics Society**: Robotics Competition
+- **Science Curnival 3.0**: Chattogram University Robot Competition
+- **Technoxian Bangladesh**: 1st Technoxian Bangladesh National Round-2024
+
+---
+## Contact Me
+
+Email: ummatunkhatun086@gmail.com
+
+GitHub: https://github.com/ummatun
+
+Phone: 01787305158
+
+Location: Savar,Dhaka
+
+---

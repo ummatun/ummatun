@@ -35,7 +35,7 @@ profiles:
     url: 'mailto:ummatunkhatun086@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/ummatun?tab=repositories
+    url: https://github.com/ummatun
     label: Visit My GitHub
 
 interests:
